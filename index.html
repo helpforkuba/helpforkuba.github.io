@@ -15,9 +15,12 @@
             display: none !important;
         }
     </style>
-    <link rel="shortcut icon" href="images/favicon.ico" />
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    
+    <!--Import Google Icon Font-->
+    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <!--<script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -27,14 +30,19 @@
         ga('create', 'UA-67484306-1', 'auto');
         ga('send', 'pageview');
     </script>-->
+
+    <link rel="stylesheet" href="styles/lib-129f9ac2.css">
+
+    <link rel="stylesheet" href="styles/app-bfca88c4.css">
 </head>
 
-<body layout="row"> 
-  <h2>Witam na mojej stronie</h2>
-  <p>Jest Kuba, mam 10 lat. Opowiem wam moją krótką (smutną historię)...</p>
-  <p>Zaczęło się ok. 4 lata temu, kiedy nowotwór zabrał mi moją mamę. Zostaliśmy (ja i moja siostra) z moim tatą i babcią.
-      <br>Koszmar powrócił w lutym tego roku. Złamałem rękę w barku, a po 3 miesiącach okazało się, że tym raz RAK dopadł mnie. Niestety aby ratować moje życie lekarze musieli mi usunąć rękę (całę od barku).
-  </p>
+<body>
+
+    <div data-ng-include="'app/layout/shell.html'"></div>
+
+    <script src="js/lib-4f73ea5f.js"></script>
+
+    <script src="js/app-9a7bc0c3.js"></script>
 </body>
 
 </html>
