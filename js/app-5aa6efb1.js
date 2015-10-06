@@ -1,7 +1,7 @@
 /**
  * Help-for-Kuba - Help for Kuba
- * @authors John Papa
- * @version v0.1.0
+ * @authors Patryk Bialek
+ * @version v0.1.1
  * @link 
  * @license MIT
  */
