@@ -4,7 +4,7 @@
     <list default="true" id="087b49f2-f2a3-49d3-802a-389f7fdeca94" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
-    <ignored path="helpforkuba.github.io.iws" />
+    <ignored path="pomocdlakbuy.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,7 +19,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="helpforkuba.github.io" />
+    <favorites_list name="pomocdlakbuy.github.io" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -88,17 +88,17 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="helpforkuba.github.io" />
+              <option name="myItemId" value="pomocdlakbuy.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="helpforkuba.github.io" />
+              <option name="myItemId" value="pomocdlakbuy.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="helpforkuba.github.io" />
+              <option name="myItemId" value="pomocdlakbuy.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
